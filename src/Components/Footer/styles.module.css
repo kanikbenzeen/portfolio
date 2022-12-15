@@ -1,0 +1,13 @@
+
+.footer_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 840px;
+    height: 50;
+}
+
+.text{
+    font-size: medium;
+    color: #e31b6d;
+    font-weight: 500;
+}

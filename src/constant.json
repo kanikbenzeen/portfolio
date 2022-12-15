@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "company": "Microsoft",
+            "link": "/",
+            "title": "Sr. Frontend Developer",
+            "duration": "Aug 2021 - Present",
+            "desc": [
+                "Text"
+            ]
+        },
+        {
+            "company": "Apple",
+            "link": "/",
+            "title": "Jr. Frontend Developer",
+            "duration": "Aug 2021 - Present",
+            "desc": [
+                "Text"
+            ]
+        },
+        {
+            "company": "Google",
+            "link": "/",
+            "title": "Jr. Frontend Developer",
+            "duration": "Aug 2021 - Present",
+            "desc": [
+                "Text"
+            ]
+        },
+        {
+            "company": "CornPub",
+            "link": "/",
+            "title": "Intern",
+            "duration": "Aug 2021 - Present",
+            "desc": [
+                "Text"
+            ]
+        }
+    ]
+}
