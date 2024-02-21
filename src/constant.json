@@ -1,21 +1,36 @@
 {
+    "name": "Kanik",
+    "title": "I Design and Develop for the World",
+    "description": "Software Developer | Graphic Designer | Digital Marketer",
+    "about": "Passionate and versatile professional with expertise in software development, graphic design, and digital marketing. Adept at collaborating with cross-functional teams and committed to continuous learning.<br><br><h4>Skills</h4><ul><li>Node.js | React | Angular | Express</li><li>MongoDB | SQL<li>Adobe Photoshop | Adobe Illustrator</li></li><li>GitHub | Docker</li></ul>",
+    "email": "kaniksaini@gmail.com",
+    "image": "url",
+    "github": "https://github.com/kanik1987",
+    "twitter": "@kanik_1987",
+    "website": "http://www.kanik.me",
+    "linkedin": "http://www.kanik.me",
+    "skills": [
+        {"name":"HTML5","level":90},
+        {"name":"CSS3","level":80,"keywords":["Flexbox","Sass"]},
+        {"name":"JavaScript","level":70,"keywords":["ES6"]}
+    ],
+    "languages": ["English"],
+    "tools": [],
+    "education": [{
+        "institution": "Harvard University",
+        "area": "Computer Science and Mathematics",
+        "study_type": "Bachelor of Science in Computer Science and Mathematics",
+        "year": 2014
+    }],
     "experiences": [
         {
-            "company": "3D Global Hub",
+            "company": "Benzeen Private Limited",
+            "companyTitle": "Benzeen",
             "link": "/",
-            "title": "3D Artist",
-            "duration": "2019 - Present",
+            "title": "Software Developer",
+            "duration": "March-2022 and Onwards",
             "desc": [
-                "Designe many 3D models for 3D printing purpose"
-            ]
-        },
-        {
-            "company": "Adzania Pvt. Ltd.",
-            "link": "/",
-            "title": "Motion Graphics Designer",
-            "duration": "2019",
-            "desc": [
-                "Designed and created lots of motion graphics videos for social media promotion purposes"
+                "As a MEAN stack developer, I was responsible for managing the company's e-commerce website independently and launching a new e-commerce website. Additionally, I worked closely with a Digital Marketing Consultant to optimize website traffic and using tools like Search Console GA4 enhance the overall user experience."
             ]
         }
     ]

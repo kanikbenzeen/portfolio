@@ -1,10 +1,11 @@
 import styles from './styles.module.css';
+import constant from "../../constant.json"
 
 function Navbar(){
     return(
         <nav className={styles.nav_container}>
             <div className={styles.nav_left}>
-                <a href='#home'>Gourav</a>
+                <a href='#home'>{constant.name}</a>
             </div>
             <div className={styles.nav_right}>
             <a href='#about' className={styles.nav_link}>

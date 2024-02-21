@@ -8,7 +8,7 @@ function Experience() {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     return(
-        <section id="experience">
+        <section className={styles.experience} id="experience">
             <Heading heading="Where I've Worked" />
             <div className={styles.container}>
                 <div className={styles.left}>
@@ -20,7 +20,7 @@ function Experience() {
                         }
                         onClick={() => setCurrentIndex(index)}>
 
-                            {experiences.company}
+                            {experiences.companyTitle}
                         </div>
 
                     ))}
